@@ -16,5 +16,5 @@ iOS 프로그래밍을 위한 스위프트 기초 문법 정리 자료입니다.
 |  7 |   함수 고급 | [이동하기](https://github.com/jane1choi/swift_basic/readme/1.md)  | 
 |  8 |   조건문 | [이동하기](https://github.com/jane1choi/swift_basic/readme/1.md)  | 
 |  9 |   반복문 | [이동하기](https://github.com/jane1choi/swift_basic/readme/1.md)  | 
-|  10 |   열거형 | [이동하기](https://github.com/jane1choi/swift_basic/readme/1.md)  | 
+|  10 |   옵셔널 | [이동하기](https://github.com/jane1choi/swift_basic/readme/1.md)  | 
 
