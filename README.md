@@ -18,8 +18,8 @@ iOS 프로그래밍을 위한 스위프트 기초 문법 정리 자료입니다.
 |  9 |   반복문 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/9.md)  |
 | 10 |   열거형 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/10.md)  |
 | 11 |   옵셔널 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  | 
-| 12 |   구조체 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
-| 13 |   클래스 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
+| 12 |   구조체 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/12.md)  |
+| 13 |   클래스 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/13.md)  |
 | 14 |   값 타입 vs 참조 타입 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
 | 15 |   클로저 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
 | 16 |   클로저 고급 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
