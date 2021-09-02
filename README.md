@@ -24,8 +24,8 @@ iOS 프로그래밍을 위한 스위프트 기초 문법 정리 자료입니다.
 | 15 |   클로저 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/15.md)  |
 | 16 |   클로저 고급 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/16.md)  |
 | 17 |   프로퍼티 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
-| 18 |   프로퍼티 감시자 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
-| 19 |   상속 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
+| 18 |   프로퍼티 감시자 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/17.md)  |
+| 19 |   상속 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/18.md)  |
 | 20 |   인스턴스의 생성과 소멸 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
 | 21 |   옵셔널 체이닝과 nil 병합 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
 | 22 |   타입캐스팅 | [이동하기](https://github.com/jane1choi/swift_basic/blob/main/readme/11.md)  |
